@@ -1,0 +1,10 @@
+[package]
+name = "vec_extract_if_polyfill"
+version = "0.1.0"
+edition = "2021"
+description = "Polyfill for Vec::extract_if"
+repository = "https://github.com/chyyran/vec_extract_if_polyfill"
+license = "MIT"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
